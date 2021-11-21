@@ -1,0 +1,65 @@
+body {
+
+    color: lightcoral;
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    color: black;
+    font-weight: bold;
+}
+
+p.redFont {
+
+    color: red;
+    font-size: 15px;
+}
+
+h2.redFont {
+
+    color: rgb(217, 255, 0);
+    font-size: 25px;
+}
+
+ul.listBorder {
+
+    background-color: hotpink;
+
+}
+
+nav {
+
+    border-style: dotted;
+    border-bottom-style: outset;
+    padding: 21px;
+    position: fixed;
+    background-color: brown;
+    top: 0;
+    right: 0;
+    left: 0;
+
+
+}
+
+
+
+
+
+
+img {
+
+    min-width: 75%;
+
+}
+
+.center {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+
+}
